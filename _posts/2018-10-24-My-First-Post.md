@@ -1,16 +1,26 @@
 ---
 layout:     post   				    # 使用的布局（不需要改）
-title:      My First Post 				# 标题 
-subtitle:   Hello World, Hello Blog #副标题
-date:       2018-10-27 				# 时间
+title:      01 				# 标题 
+subtitle:   01 #副标题
+date:       2018-10-30 				# 时间
 author:     gwc 						# 作者
 header-img: img/post-bg-2015.jpg 	#这篇文章标题背景图片
 catalog: true 						# 是否归档
 tags:								#标签
-    - 生活
+    - lala
 ---
 
-## Hey
->这是我的第一篇博客。
+# lala
 
-进入你的博客主页，新的文章将会出现在你的主页上.
+>lalala
+>
+>lalala
+>
+>
+
+
+
+>
+
+
+
