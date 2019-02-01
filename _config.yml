@@ -99,8 +99,8 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "南开大学",
-        href: "http://www.nankai.edu.cn"
+        title: "郭东升课题组",
+        href: "http://www.calixer.cn"
     },{
         title: "思想家公社的门口",
         href: "http://sobereva.com"
