@@ -20,17 +20,17 @@ tags:								#标签
 
 **1.** 将输出样式中的杂志模板修改，加上label项。以Angewandte Chemie这一样式为例：
 
-![](http://pms95287k.bkt.clouddn.com/edit-style.png)
+![](https://i.postimg.cc/XYpgBHW1/edit-style.png)
 
 在Templates一项中，找到Journal Article,后面加上label字段。
 
-![](http://pms95287k.bkt.clouddn.com/endnote-angew.png)
+![](https://i.postimg.cc/9XYb6w1b/endnote-angew.png)
 
 改为
 
-![](http://pms95287k.bkt.clouddn.com/endnote-template.png)
+![](https://i.postimg.cc/Yq2RM2sH/endnote-template.png)
 
 **2.** 在label项上，依照下面的格式，填入angew德文版的信息。
 
-![label](http://pms95287k.bkt.clouddn.com/endnote-label.png)
+![label](https://i.postimg.cc/BQhg6Wr1/endnote-label.png)
 
