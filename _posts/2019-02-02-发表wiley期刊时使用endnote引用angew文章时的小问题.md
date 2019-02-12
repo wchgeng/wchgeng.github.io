@@ -12,28 +12,25 @@ tags:								#标签
 
 # 发表wiley期刊时使用endnote引用angew文章时的小问题
 
-发表wiley旗下的杂志时，引用angew时，要求同时引用英文版和德文版，而且是作为同一条文献。这是什么意思呢？
-英文版和德文版之间用分号隔开，而不是用字母隔开。
+发表wiley旗下的杂志时，引用angew时，要求同时引用英文版和德文版，而且是作为同一条文献。这是什么意思呢？就是英文版和德文版之间用分号隔开，而不是用字母隔开。
 
 
 
-这就导致了用endnote引用的时候，需要一些特别的小处理。
-
-
-
-具体步骤如下：
+这就导致了用endnote引用的时候，需要一些特别的小处理。具体步骤如下：
 
 **1.** 将输出样式中的杂志模板修改，加上label项。以Angewandte Chemie这一样式为例：
 
 ![](http://pms95287k.bkt.clouddn.com/edit-style.png)
 
-在Templates字段后面加上label。
+在Templates一项中，找到Journal Article,后面加上label字段。
 
 ![](http://pms95287k.bkt.clouddn.com/endnote-angew.png)
 
-改为![](http://pms95287k.bkt.clouddn.com/endnote-template.png)
+改为
 
-**2.** 在label项上填入angew德文版的信息。
+![](http://pms95287k.bkt.clouddn.com/endnote-template.png)
+
+**2.** 在label项上，依照下面的格式，填入angew德文版的信息。
 
 ![label](http://pms95287k.bkt.clouddn.com/endnote-label.png)
 
