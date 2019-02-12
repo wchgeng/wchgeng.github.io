@@ -23,9 +23,17 @@ tags:								#标签
 
 具体步骤如下：
 
-**1.** 将输出样式中的杂志模板修改，加上label项。
+**1.** 将输出样式中的杂志模板修改，加上label项。以Angewandte Chemie这一样式为例：
+
+![](http://pms95287k.bkt.clouddn.com/edit-style.png)
+
+在Templates字段后面加上label。
 
 ![](http://pms95287k.bkt.clouddn.com/endnote-angew.png)
 
+改为![](http://pms95287k.bkt.clouddn.com/endnote-template.png)
+
 **2.** 在label项上填入angew德文版的信息。
+
+![label](http://pms95287k.bkt.clouddn.com/endnote-label.png)
 
