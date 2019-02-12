@@ -25,7 +25,7 @@ tags:								#标签
 
 **1.** 将输出样式中的杂志模板修改，加上label项。
 
-![](pms95287k.bkt.clouddn.com/endnote-angew.png)
+![](http://pms95287k.bkt.clouddn.com/endnote-angew.png)
 
 **2.** 在label项上填入angew德文版的信息。
 
